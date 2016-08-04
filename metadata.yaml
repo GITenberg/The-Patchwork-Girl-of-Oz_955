@@ -1,0 +1,54 @@
+_repo: The-Patchwork-Girl-of-Oz_955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "The Patchwork Girl of Oz by L. Frank Baum, is a children's novel, the\
+  \ 7th set in the Land of Oz. Characters include the Woozy, Ojo \"the Unlucky\",\
+  \ Unc Nunkie, Dr. Pipt, Scraps (the patchwork girl), and others. The book was first\
+  \ published on July 1, 1913, with illustrations by John R. Neill. In 1914, Baum\
+  \ adapted the book to film through his \"Oz Film Manufacturing Company.\"\nIn the\
+  \ previous Oz book, The Emerald City of Oz, magic was used to isolate Oz from all\
+  \ outside worlds. Baum did this to end the Oz series, but was forced to restart\
+  \ the series with this book due to financial hardships. In the prologue, he explains\
+  \ how he managed to get another story about Oz, even though it is isolated from\
+  \ all other worlds. He explains that a child suggested he make contact with Oz with\
+  \ wireless telegraphy. Glinda, using her book that records everything that happens,\
+  \ is able to know that someone is using a telegraph to contact Oz, so she erects\
+  \ a telegraph tower and has the Shaggy Man, who knows how to make a telegraph reply,\
+  \ tell the story contained in this book to Baum.\nThe book was dedicated to Sumner\
+  \ Hamilton Britton, the young son of one of its publishers, Sumner Charles Britton\
+  \ of Reilly & Britton.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Fantasy
+- Children's Literature
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '955'
+  wikidata: Q615227
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy'
+- !lcc 'PZ'
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- GITenberg
+title: The Patchwork Girl of Oz
+url: http://www.gutenberg.org/ebooks/955
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D8%B1%D9%82%D8%B9%D8%A9_%D9%85%D9%86_%D8%A3%D9%88%D8%B2
+- https://de.wikipedia.org/wiki/Dorothy_und_das_Patchwork-M%C3%A4dchen
+- https://en.wikipedia.org/wiki/The_Patchwork_Girl_of_Oz
+- https://pt.wikipedia.org/wiki/The_Patchwork_Girl_of_Oz
